@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1055375183518",
+    "firebase_url": "https://civil-project-7b1d9.firebaseio.com",
+    "project_id": "civil-project-7b1d9",
+    "storage_bucket": "civil-project-7b1d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055375183518:android:71c0525c791ce872",
+        "android_client_info": {
+          "package_name": "com.example.application.civilinfo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055375183518-k0bthn1u9dq0h9d8dg5ddfhafepjqjs5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.application.civilinfo",
+            "certificate_hash": "30176dc14c7f9b785d1b24aa193158515a13215f"
+          }
+        },
+        {
+          "client_id": "1055375183518-aq6djv8fib11l9nci22dmpv6rvt8nkdk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4o6CYcpFIetcpWj00tAA_MQh14gD98Vg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055375183518-aq6djv8fib11l9nci22dmpv6rvt8nkdk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

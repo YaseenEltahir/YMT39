@@ -1,0 +1,36 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.application.AnsarAlsunaDonations.MainActivity">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/menu_settings"
+            android:checkable="false"
+            android:orderInCategory="1"
+            android:title="@string/settings_string"
+            app:showAsAction="never">
+
+        </item>
+
+        <item
+            android:id="@+id/menu_dual_sim_settings"
+            android:checkable="false"
+            android:orderInCategory="2"
+            android:title="@string/dual_sim_string"
+            app:showAsAction="never">
+
+        </item>
+        <item
+            android:id="@+id/menu_about"
+            android:checkable="false"
+            android:orderInCategory="3"
+            android:title="@string/about_string"
+            app:showAsAction="never">
+
+        </item>
+
+
+
+    </group>
+
+</menu>
